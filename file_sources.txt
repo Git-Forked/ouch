@@ -1,0 +1,46 @@
+Sound file sources:
+
+https://en.wiktionary.org/wiki/File:en-us-inlandnorth-ouch.ogg
+as ouch_ouch.ogg
+
+https://bigsoundbank.com/detail-0477-wilhelm-scream.html
+as ouch_scream.ogg
+
+https://bigsoundbank.com/detail-1795-whoosh-3.html
+as ouch_whoosh.3.ogg
+https://bigsoundbank.com/detail-1796-whoosh-4.html
+as ouch_whoosh.4.ogg
+https://bigsoundbank.com/detail-1797-whoosh-5.html
+as ouch_whoosh.5.ogg
+https://bigsoundbank.com/detail-1799-whoosh-6.html
+as ouch_whoosh.6.ogg
+https://bigsoundbank.com/detail-1800-whoosh-7.html
+as ouch_whoosh.7.ogg
+https://bigsoundbank.com/detail-1802-whoosh-9.html
+as ouch_whoosh.9.ogg
+https://bigsoundbank.com/detail-1798-whoosh-10.html
+as ouch_whoosh.10.ogg
+
+https://bigsoundbank.com/detail-1930-heart-beat-5.html
+as ouch_heartbeat.ogg
+
+https://bigsoundbank.com/detail-1640-strangled-man-2.html
+as ouch_death.ogg
+https://bigsoundbank.com/detail-0354-mouth-noises-3.html
+as ouch_death.1.ogg
+https://bigsoundbank.com/detail-1407-yawn-2.html
+as ouch_death.2.ogg
+
+https://bigsoundbank.com/detail-2191-thermostat-1.html
+as ouch_click.ogg
+
+https://bigsoundbank.com/detail-1280-stomach-gurgling-1.html
+as ouch_drowning.ogg
+https://bigsoundbank.com/detail-1652-gargle-1.html
+as ouch_drowning.1.ogg
+https://bigsoundbank.com/detail-1653-gargle-2.html
+as ouch_drowning.2.oggg
+
+https://bigsoundbank.com/detail-0164-turned-page.html
+as ouch_inventory.ogg
+
