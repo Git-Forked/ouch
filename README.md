@@ -1,21 +1,25 @@
-Ouch -Client side mod for Minetest
+# Ouch - Client side mod for Minetest
 
-Description:  Adds ouch and various other sounds related to the character actions.
 
-Details: 
+## Description:  
 
-2 ouch sounds
+Adds ouch and various other sounds related to the character actions.
 
-3 Death sounds
+## Details: 
 
-3 drowning sounds
+* 2 ouch sounds
 
-7 weapon sounds
+* 3 Death sounds
 
-life-alert heartbeat
+* 3 drowning sounds
 
-inventory sound
+* 7 weapon sounds### 
 
-Directions:  
+* life-alert heartbeat
+
+* inventory sound
+
+
+## Directions:  
 
 To install: move mod files to the mods folder, and move all sounds to the Minetest sounds folder.
