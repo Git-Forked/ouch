@@ -9,7 +9,7 @@ Adds ouch and various other sounds related to the character actions.
 
 * 2 ouch sounds
 
-* 3 Death sounds
+* 3 death sounds
 
 * 3 drowning sounds
 
