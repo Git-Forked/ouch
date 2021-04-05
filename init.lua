@@ -79,6 +79,5 @@ end)
 
 minetest.register_on_inventory_open(function(inventory)
     minetest.sound_play("ouch_inventory", {gain = 0.5})
-    minetest.display_chat_message("Formspec clicked.")
     return false
 end)
