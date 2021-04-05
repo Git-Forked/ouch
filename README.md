@@ -13,7 +13,7 @@ Adds ouch and various other sounds related to the character actions.
 
 * 3 drowning sounds
 
-* 7 weapon sounds### 
+* 7 weapon sounds
 
 * life-alert heartbeat
 
