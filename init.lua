@@ -76,12 +76,6 @@ minetest.register_on_item_use(function(item, pointed_thing)
     return false
 end)
 
-minetest.register_on_formspec_input(function(formname, fields)
-    minetest.sound_play("ouch_click", {gain = 0.5})
-    minetest.display_chat_message("Formspec clicked.")
-    return false
-end)
-
 minetest.register_on_inventory_open(function(inventory)
     minetest.sound_play("ouch_inventory", {gain = 0.5})
     minetest.display_chat_message("Formspec clicked.")
