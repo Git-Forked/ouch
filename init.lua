@@ -1,5 +1,6 @@
 -- Ouch - Client side mod for Minetest
 -- Scripted by: RB
+-- https://github.com/Git-Forked/ouch
 
 local modname = minetest.get_current_modname()
 local heartbeat = false     -- Always start false
