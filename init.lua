@@ -1,4 +1,5 @@
 -- Ouch - Client side mod for Minetest
+-- Scripted by: RB
 
 local modname = minetest.get_current_modname()
 local heartbeat = false     -- Always start false
