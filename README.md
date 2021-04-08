@@ -22,4 +22,5 @@ Adds ouch and various other sounds related to the character actions.
 
 ## Directions:  
 
-To install: move mod files to the Minetest _/clientmods_ folder, and move all sounds to the Minetest _/sounds_ folder.
+To install: Move mod files to the Minetest _/clientmods_ folder, and move all sounds to the Minetest _/sounds_ folder.  
+Add the line _load_mod_ouch = true_ to the _/clientmods/mods.conf_ file
