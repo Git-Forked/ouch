@@ -16,6 +16,7 @@ minetest.register_on_mods_loaded(function()
     return false
 end)
 
+--[[
 function is_player_in_air()
     local pos = minetest.localplayer:get_pos()
     local my_node = minetest.get_node_or_nil(pos)
@@ -26,9 +27,11 @@ function is_player_in_air()
     end
     return false
 end
+]]
 
 minetest.register_on_damage_taken(function(hp)
-    if is_player_in_air() == false then
+    --if is_player_in_air() == false then
+    if minetest.localplayer:get_breath(self) == 0 then
         minetest.sound_play("ouch_drowning", {gain = 0.9})
         minetest.display_chat_message("GET OUT OF THE WATER!")
     else
